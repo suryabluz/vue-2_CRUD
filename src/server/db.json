@@ -1,0 +1,154 @@
+{
+  "list": [
+    {
+      "name": "dinesh",
+      "dob": "2022-07-01",
+      "email": "dinesh123@gmail.com",
+      "phone": "123274874e",
+      "gender": "Male",
+      "id": "6cDK7bt"
+    },
+    {
+      "name": "Siva",
+      "dob": "2022-06-30",
+      "email": "siva@gmail.com",
+      "phone": "9159127367",
+      "gender": "Male",
+      "id": "ChZwfCA"
+    },
+    {
+      "name": "aravind",
+      "dob": "2021-12-09",
+      "email": "aravind@gmail.com",
+      "phone": "8765456798",
+      "gender": "Male",
+      "id": "vZzMSwH"
+    },
+    {
+      "name": "ranji",
+      "dob": "2021-12-07",
+      "email": "ranji@gmail.com",
+      "phone": "24676433456",
+      "gender": "Female",
+      "id": "EXReQ06"
+    },
+    {
+      "name": "testing",
+      "dob": "2022-06-26",
+      "email": "testing@gmail.com",
+      "phone": "9826892221",
+      "gender": "Female",
+      "id": "7R7idQ_"
+    },
+    {
+      "name": "aravind",
+      "dob": "2022-07-07",
+      "email": "aravind@gmail.com",
+      "phone": "890188282",
+      "gender": "Male",
+      "id": "lWZIJ4d"
+    },
+    {
+      "name": "velu bhai",
+      "dob": "2022-06-28",
+      "email": "velu@gmail.com",
+      "phone": "9159152544",
+      "gender": "Male",
+      "id": "oJMSgje"
+    },
+    {
+      "name": "qw",
+      "dob": "2022-06-28",
+      "email": "wq",
+      "phone": "982782",
+      "gender": "Female",
+      "id": "VCBjAto"
+    },
+    {
+      "name": "qwe",
+      "dob": "2022-06-29",
+      "email": "sda",
+      "phone": "98762",
+      "gender": "Female",
+      "id": "POOU4zX"
+    },
+    {
+      "name": "sdkj",
+      "dob": "2022-07-04",
+      "email": "klfd",
+      "phone": "231",
+      "gender": "Female",
+      "id": "pwC-TZA"
+    },
+    {
+      "name": "kjsd",
+      "dob": "2022-07-06",
+      "email": "jksd",
+      "phone": "982",
+      "gender": "Female",
+      "id": "bev9gJ1"
+    },
+    {
+      "name": "kuruvama",
+      "dob": "2022-06-29",
+      "email": "kuruvama@gmail.com",
+      "phone": "8709090900",
+      "gender": "Female",
+      "id": "JAOgBm6"
+    },
+    {
+      "name": "kandhasamy",
+      "dob": "2021-12-01",
+      "email": "kandhasamy@gmail.com",
+      "phone": "9109090912",
+      "gender": "Male",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": "LBA8Zy4"
+    },
+    {
+      "name": "Ajay",
+      "dob": "2006-01-02",
+      "email": "ajay123@gmail.com",
+      "phone": "9898982723",
+      "gender": "Female",
+      "password": "Ajay@123",
+      "confirmPassword": "Ajay@123",
+      "id": "3W6a5E-"
+    },
+    {
+      "name": "Surya",
+      "dob": "1997-12-15",
+      "email": "suryabluz007@gmail.com",
+      "phone": "9159152597",
+      "gender": "Male",
+      "password": "qwerty@123",
+      "confirmPassword": "qwerty@123",
+      "id": "YUdLbs9"
+    }
+  ],
+  "login": [
+    {
+      "userName": "surya",
+      "password": "12345678"
+    }
+  ],
+  "register": [
+    {
+      "name": "user",
+      "email": "user@gmail.com",
+      "phone": "9090909090",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "id": 1
+    },
+    {
+      "name": "user",
+      "email": "user@gmail.com",
+      "phone": "9090909090",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 2
+    }
+  ]
+}
